@@ -1,0 +1,60 @@
+.slider-height{
+    height: 600px;
+}
+.my-caption{
+    background: rgba(0,0,0,0.3);
+    position: absolute;
+    bottom: 200px;
+}
+.h-200{height: 200px; }
+.h-50{height: 50px; }
+.h-600{height: 600px; }
+.h-250{height: 250px; }
+.h-40{height: 40px; }
+.h-275{height: 275px;}
+
+.card-default-height{
+    height: 400px;
+}
+.parent-div{
+    position: relative;
+}
+.parent-div:hover .overlay{
+    opacity: 1;
+    bottom: 0;
+}
+
+.overlay{
+    background-color: rgba(57, 119, 175, 0.8);
+    height: 275px;
+    width: 100%;
+    transition: 1s;
+    opacity: 0;
+    position: absolute;
+    bottom: 100%;
+}
+/*.card-custom-img:hover{*/
+/*    !*opacity: .5;*!*/
+/*    */
+/*    */
+/*}*/
+.card-img-height{
+    height: 180px;
+}
+.fs-20{
+    font-size: 20px;
+}
+.fs-13{
+    font-size: 13px;
+}
+.fs-16{
+    font-size: 16px;
+}
+.fs-11{
+    font-size: 11px;
+}
+.b-b-1{
+    border-bottom: 1px solid lightgrey!important;
+}
+
+
